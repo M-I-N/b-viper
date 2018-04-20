@@ -20,6 +20,17 @@ DEPENDENCIES:
   - RealmSwift
   - Swinject
 
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - ASToast
+    - ModelMapper
+    - Nimble
+    - Quick
+    - Realm
+    - RealmSwift
+    - Swinject
+
 SPEC CHECKSUMS:
   Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
   ASToast: 7b0a104bba38264e2525924a6ab60dde972d0c83
@@ -32,4 +43,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 32e89618ae8deaf29eee29d2ffdeb793d1b21fe8
 
-COCOAPODS: 1.2.1
+COCOAPODS: 1.5.0
